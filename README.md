@@ -1,4 +1,6 @@
 
+![Screenshot 2025-04-27 125611](https://github.com/user-attachments/assets/697ad3c1-5245-4a05-9c39-d518f5e61740)
+
 Welcome to the project Amazon Clone! This project is an implementation of a simplified version of the Amazon website using HTML and CSS.
 
 Features:
